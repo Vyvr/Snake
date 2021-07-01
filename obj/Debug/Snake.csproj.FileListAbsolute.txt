@@ -1,0 +1,10 @@
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab9-snake\Snake\bin\Debug\Snake.exe.config
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab9-snake\Snake\bin\Debug\Snake.exe
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab9-snake\Snake\bin\Debug\Snake.pdb
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab9-snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab9-snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab9-snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab9-snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab9-snake\Snake\obj\Debug\Snake.exe
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab9-snake\Snake\obj\Debug\Snake.pdb
+D:\Uczelnia\4 sem\Programowanie komponentowe\Lab9-snake\Snake\obj\Debug\Snake.FormSnake.resources
